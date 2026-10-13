@@ -1,0 +1,15 @@
+interface FastEthernet01
+ switchport access vlan 20
+ switchport mode access
+
+interface FastEthernet02
+ switchport access vlan 20
+ switchport mode access
+
+interface FastEthernet03
+ switchport access vlan 10
+ switchport mode access
+
+interface FastEthernet04
+ switchport access vlan 10
+ switchport mode access
